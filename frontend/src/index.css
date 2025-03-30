@@ -1,0 +1,12 @@
+/* ✅ Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+
+/* ✅ Apply Fonts */
+body{
+    font-family: "Josefin Sans", sans-serif; /* Default Font */
+}
+
+nav,h1,h2,h3,footer {
+    font-family: "Dancing Script", cursive; /* Elegant Navbar Font */
+}
